@@ -11,7 +11,7 @@ import pages.DemoBlazeHomePage;
 import pages.DemoBlazeLoginPage;
 import utility.BrowserUtil;
 
-
+//Added new comments
 public class Steps {
 	RemoteWebDriver driver;
 	
