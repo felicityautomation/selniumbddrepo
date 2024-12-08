@@ -12,6 +12,7 @@ import pages.DemoBlazeLoginPage;
 import utility.BrowserUtil;
 
 //Added new comments - from user2
+//Comments added from branch1
 public class Steps {
 	RemoteWebDriver driver;
 	
