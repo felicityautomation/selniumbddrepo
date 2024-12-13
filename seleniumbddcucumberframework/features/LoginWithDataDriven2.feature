@@ -1,4 +1,5 @@
 # This file is related to Login Feature of DemoBlaze application
+#new content
 Feature: Login feature of DemoBlaze application
 
   Scenario Outline: Verify login functionality when logged with valid credentials
